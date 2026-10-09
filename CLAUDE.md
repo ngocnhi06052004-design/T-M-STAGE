@@ -12,6 +12,8 @@ giải thích JD dễ hiểu và nói thẳng, kể cả khi job không hợp.
   **bắt buộc kết thúc trước 30/06/2027**.
 - **Mong muốn:** sản xuất nội dung, lên chiến lược nội dung; ưu tiên truyền thông sự kiện.
 - **Portfolio:** https://ngocnhidavhn.wixstudio.com/creative-portfolio
+- **CV ATS (tiếng Pháp, Claude Doc):** https://claude.ai/code/artifact/ca9a46c7-11c0-47c8-aa76-b162859ff166.
+  Bản gốc để chỉnh sửa theo từng job.
 
 ### Kinh nghiệm
 | Thời gian | Nơi làm | Vị trí | Việc chính |

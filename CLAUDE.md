@@ -56,3 +56,5 @@ giải thích JD dễ hiểu và nói thẳng, kể cả khi job không hợp.
 4. **Điều kiện cứng:** theo checklist trên.
 5. **Mức độ phù hợp:** điểm /10 và kết luận: Nộp ngay / Nộp nhưng cần chỉnh / Bỏ qua.
 6. **Nếu nộp:** kinh nghiệm nào cần đẩy lên, keyword nên đưa vào CV, góc độ cho lettre de motivation.
+
+Sau mỗi job: thêm một dòng vào `JOBS.md` (mới nhất ở trên) và cập nhật trạng thái khi Nhi báo.

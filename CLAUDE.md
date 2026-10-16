@@ -26,7 +26,7 @@ giải thích JD dễ hiểu và nói thẳng, kể cả khi job không hợp.
 
 ### Kỹ năng & ngôn ngữ
 - Mạnh: tổ chức sự kiện (concept tới hậu cần), social media, PR, truyền thông nội bộ, viết nội dung.
-- Công cụ: Canva, Microsoft Office, CapCut. **Chưa có:** Adobe (Premiere/Photoshop/InDesign),
+- Công cụ: Canva, Microsoft Office, CapCut, Wix Studio. IA générative: ChatGPT, Claude, Gemini. **Chưa có:** Adobe (Premiere/Photoshop/InDesign),
   công cụ analytics, Meta Business Suite trên CV.
 - Tiếng Pháp: DELF B2. Tiếng Anh: trung cấp (IELTS 5.5, 2023). Tiếng Việt: bản ngữ.
 
